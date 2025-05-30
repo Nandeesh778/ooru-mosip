@@ -6,7 +6,7 @@
   "id": "did:web:Nandeesh778.github.io:ooru-mosip:certify_did",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkrK3iRgTSrSuoN4feddsN6SgGTkKeHmVBjbd8fbSXgccm",
+      "publicKeyMultibase": "z6MkgoZMxckv4BxPEWKgw3Vy5ax9TozgA5C1v9KEqnokCQ6J",
       "controller": "did:web:Nandeesh778.github.io:ooru-mosip:certify_did",
       "id": "did:web:Nandeesh778.github.io:ooru-mosip:certify_did#key-0",
       "type": "Ed25519VerificationKey2020",
